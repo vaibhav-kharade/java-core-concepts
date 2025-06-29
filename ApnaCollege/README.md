@@ -19,3 +19,10 @@ This repository showcases my dedication to mastering core programming concepts, 
 
 ## 📂 Repository Structure
 
+java-coding-practice/
+│
+├── core/ # Java basics, OOPs, strings, arrays, recursion
+├── intermediate/ # Collections, file handling, multithreading
+├── advanced/ # Spring Boot, REST APIs, DB logic
+├── algorithms/ # Searching, sorting, recursion, backtracking
+└── utils/ # Reusable utilities and helpers.
