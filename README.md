@@ -9,7 +9,7 @@ This repository showcases my dedication to mastering core programming concepts, 
 
 ## 🚀 Technologies Used
 
-- Java 17
+- Java 8, 9, 17, 21
 - Maven
 - Spring Boot (for advanced modules)
 - Git & GitHub
