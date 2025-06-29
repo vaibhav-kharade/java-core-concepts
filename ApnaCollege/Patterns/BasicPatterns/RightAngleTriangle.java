@@ -10,6 +10,7 @@ public class RightAngleTriangle {
         for (int i = 0; i <= num; i++) {
             //This is my outr loop for lines / rows
             for (int j = 0; j <=i; j++) {
+            //This is my outr loop for columns
                 System.out.print(" *");
             }
             System.out.println();
