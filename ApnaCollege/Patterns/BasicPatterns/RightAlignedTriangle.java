@@ -16,9 +16,13 @@ public class RightAlignedTriangle {
         System.out.println("=========== RightAlignedTriangle ============");
 
         for (int i = 0; i < num; i++) {
-            for (int j = i; j < num-1; j++) {
+            // for (int j = i; j < num-1; j++) {
+            //     System.out.print(" ");
+            // }
+            for (int j = 1; j < num-i; j++) {
                 System.out.print(" ");
             }
+
             for (int j = 0; j <= i; j++) {
                 System.out.print("*");
             }
