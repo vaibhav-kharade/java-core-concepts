@@ -20,3 +20,15 @@ This repository showcases my dedication to mastering core programming concepts, 
 ## 📂 Repository Structure
 
 The following structure will be implemented progressively to organize Java logic and full-stack components efficiently:
+
+
+java-logic-practice/
+│
+├── core/           # Java basics, data types, loops, conditionals, OOPs
+├── intermediate/   # Collections, exception handling, multithreading
+├── advanced/       # Spring Boot modules, REST APIs, layered architecture
+├── algorithms/     # Sorting, searching, recursion, dynamic programming
+├── database/       # JDBC, JPA, Hibernate, MySQL, MongoDB logic
+├── devops/         # Docker, CI/CD scripts, GitHub Actions workflows
+├── utils/          # Helper utilities, common reusable code
+└── tests/          # JUnit and test cases for implemented logic
