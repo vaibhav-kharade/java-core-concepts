@@ -1,8 +1,15 @@
 import java.util.Scanner;
+
+// ==================== Hollo Square Pattern of * =====================
+//  * * * *
+//  *     *
+//  *     *
+//  * * * *
+
 public class HolloSquare{
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.print("Enter a number : ");
         int num = scanner.nextInt();
         System.out.println("==================== Hollo Square Pattern of * =====================");
 

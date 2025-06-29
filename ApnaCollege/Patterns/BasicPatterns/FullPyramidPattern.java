@@ -1,0 +1,11 @@
+// =========== FullPyramidPattern ===========
+//         * 
+//       * * * 
+//     * * * * * 
+//   * * * * * * * 
+// * * * * * * * * *
+
+
+public class FullPyramidPattern {
+    
+}

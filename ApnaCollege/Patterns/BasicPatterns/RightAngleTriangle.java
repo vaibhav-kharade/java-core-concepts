@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+// =========== RightAngleTriangle ============
+//  *
+//  * *
+//  * * *
+//  * * * *
+//  * * * * *
+
+
 public class RightAngleTriangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,0 +1,11 @@
+// ======= InvertedPyramidPattern =======
+// * * * * * * * * * 
+//   * * * * * * * 
+//     * * * * * 
+//       * * * 
+//         * 
+
+
+public class InvertedPyramidPattern {
+    
+}
